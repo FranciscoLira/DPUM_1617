@@ -13,4 +13,6 @@ A solução obtida com este algoritmo pode estar distante da solução real em c
 
 ##Shortest path (traveling salesman)
 
-A travel agency, is organizing a world trip and for that the script should go to diferent places. But we want to do that in the eficient way, to monetize our trip, the path should be the shortest possible, coming back to the first point. The points in the input file are described in geographic coordinates in degrees. To calculate the distance you shoud use the 'haversine' formula ant should print the spots in the correct order. 
+A travel agency, is organizing a world trip and for that the script should go to diferent places. But we want to do that in the eficient way, to monetize our trip, the path should be the shortest possible, coming back to the first point. The points in the input file are described in geographic coordinates in degrees. To calculate the distance you shoud use the 'haversine' formula ant should print the spots in the correct order.
+
+####First solution
