@@ -17,3 +17,9 @@ A travel agency, is organizing a world trip and for that the script should go to
 
 ####First solution
 The first algorithm thought by me was the simplest (but in no way the most efficient), the algorithm of the closest neighbor.
+######Description of the algorithm
+    -1º Choose the two closest points, this two points will be our starter point 
+    -2º See witch point is the closest to either points on the extreme of our path and add it ti our solution
+    -3º While there are points without connection repeat the step 2º
+
+The solution obtained with this algorithm is deslocated from the real solution in 20%, so it's a bad solution but its the simpliest solution to make and for short travels gives a acceptable solution 
