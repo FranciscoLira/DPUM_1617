@@ -5,9 +5,9 @@ Uma agência de viagens, está a organizar uma volta ao mundo e para tal o rotei
 ####Primeira solução
 O primeiro algoritmo pensado por mim foi o mais simples de todo(mas de maneira nenhuma o mais eficiente), o algoritmo do vizinho mais próximo.
 ######Descrição do algoritmo:
-  1º Escolher os dois pontos mais próximos, estes dois pontos serão o nosso ponto de partida;
-  2º Ver qual o ponto mais próximo de um dos pontos no extremo do nosso caminho e adiciona-lo à solução;
-  3º Enquanto houver pontos sem ligação repetir o passo 2º;
+  - 1º Escolher os dois pontos mais próximos, estes dois pontos serão o nosso ponto de partida;
+  - 2º Ver qual o ponto mais próximo de um dos pontos no extremo do nosso caminho e adiciona-lo à solução;
+  - 3º Enquanto houver pontos sem ligação repetir o passo 2º;
   
 A solução obtida com este algoritmo pode estar distante da solução real em cerca de 20%, ou seja, é uma má solução, mas é o mais simples de fazer, e para caminhos pequenos pode ser uma solução aceitável.
 
