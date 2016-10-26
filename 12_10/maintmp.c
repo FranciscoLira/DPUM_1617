@@ -3,6 +3,10 @@
 #include "strings.h"
 #include <math.h>
 
+
+/*
+	Nao terminado porque cansei-me
+*/
 typedef struct cords {
 	int x;
 	int y;
