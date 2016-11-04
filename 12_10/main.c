@@ -4,8 +4,7 @@
 #include <math.h>
 
 typedef struct cords {
-	int x;
-	int y;
+	int x, y;
 } Cords;
 
 typedef struct lcords {
